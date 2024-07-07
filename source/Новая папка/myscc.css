@@ -1,0 +1,7 @@
+.nav-link{
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active{
+    color: rgb(250, 0, 0);
+}

@@ -1,0 +1,36 @@
+
+.startvideo-con {
+    height: 70vh;
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.startvideo {
+    height: 70vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 1;
+}
+.videotext{
+    color: aquamarine;
+    z-index: 2;
+
+}
+
+.effect{
+    height: 70vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.274);
+}
+
